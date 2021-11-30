@@ -1,4 +1,7 @@
 def buy_and_sell_a_stock_once(prices: list[float]) -> float:
+    """
+    solves https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+    """
     if len(prices) == 0:
         return 0
 
