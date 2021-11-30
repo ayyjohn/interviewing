@@ -1,4 +1,4 @@
-from src.questions import buy_and_sell_a_stock_once
+from interviewing.questions import buy_and_sell_a_stock_once
 
 
 def test_when_price_only_goes_up():
