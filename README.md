@@ -3,8 +3,6 @@
 [![Code Coverage][coverage-image]][coverage-url]
 [![Code Quality][quality-image]][quality-url]
 
-...
-
 <!-- Badges -->
 
 [pypi-image]: https://img.shields.io/pypi/v/interviewing
