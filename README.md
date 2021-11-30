@@ -10,3 +10,5 @@ Instead, simply import the question from `interviewing`'s `questions` module and
 ```python
 from interviewing.questions import buy_and_sell_a_stock_once
 ```
+
+No more fizzbuzz! No more is_palindrome! No more lame interview questions!
