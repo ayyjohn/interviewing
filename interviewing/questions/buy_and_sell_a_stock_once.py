@@ -1,4 +1,7 @@
-def buy_and_sell_a_stock_once(prices: list[float]) -> float:
+from typing import List
+
+
+def buy_and_sell_a_stock_once(prices: List[float]) -> float:
     """
     solves https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
     """
