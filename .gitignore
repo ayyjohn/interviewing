@@ -3,3 +3,4 @@ dist/
 venv/
 .tox/
 .env
+coverage.xml
