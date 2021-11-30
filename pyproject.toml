@@ -12,5 +12,5 @@ dynamic = ["version", "description"]
 
 [project.urls]
 Home = "https://github.com/ayyjohn/interviewing"
-Source = https://github.com/ayyjohn/interviewing
-Bug Tracker = https://github.com/ayyjohn/interviewing/issues
+Source = "https://github.com/ayyjohn/interviewing"
+Tracker = "https://github.com/ayyjohn/interviewing/issues"
